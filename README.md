@@ -1,0 +1,2 @@
+# SampleKafkaConsumer
+ Kafka Consumer application.
